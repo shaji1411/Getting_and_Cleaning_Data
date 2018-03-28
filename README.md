@@ -7,3 +7,5 @@
 6. Left joins with activity_labels file to get descriptive activity names.
 7. Creates a tidy data set with the average of each variable grouped by activity and subject.
 8. Writes the tidy data set to tidy_data.txt file in the working directory.
+
+##### This script requires dplyr & stringr packages.
